@@ -15,8 +15,11 @@ go get github.com/antlr/antlr4/runtime/Go/antlr
 download and install java
 
 put antlr-4.7-complete.jar to D:\antlr\antlr-4.7-complete.jar
+
 cmd
+
 antlr.bat
+
 go get github.com/antlr/antlr4/runtime/Go/antlr
 ## cmd
 ```
